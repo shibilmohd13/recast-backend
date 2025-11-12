@@ -1,2 +1,5 @@
 venv
 media
+*.pyc
+__pycache__/
+ven
